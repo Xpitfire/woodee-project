@@ -5,11 +5,12 @@
 html,
 body {
 	margin:0;
-	background-color: #636363;
+	background-color: #FFF;
 	background-image:url(images/site/bg.png);
 	background-position:top;
 	padding:0;
 	height:100%;
+	background-repeat:repeat-x;
 }
 #wrapper {
 	min-height:100%;
@@ -23,7 +24,7 @@ body {
 	text-align:center;
 }
 #content {
-	margin-left: 15%;
+	margin-left: 50%;
 	width: 800px;
 	min-height: 700px;
 	padding: 10px;
@@ -37,7 +38,7 @@ body {
 	background-image: url(images/site/blankred.png);
 	margin-left: 15%;
 	width: 800px;
-	min-height: 70%;
+	min-height: 10%;
 	padding: 10px;
 	padding-bottom: 80px;   /* Height of the footer element */
 	color: #000;
